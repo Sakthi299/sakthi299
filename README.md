@@ -17,7 +17,7 @@
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
 
-<img align="right" alt="GIF" src="https://github.com/Sakthi299/sakthi299/blob/master/snaps/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/Sakthi299/sakthi299/blob/main/snaps/code.gif?raw=true" width="500" height="320" />
 
 <!--
 **Sakthi299/sakthi299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
