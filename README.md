@@ -1,5 +1,8 @@
 ### Hi there. I'm Sakthi Namasivayam👋
 
+
+<img align="right" alt="GIF" src="https://github.com/Sakthi299/sakthi299/blob/master/snaps/code.gif?raw=true" width="500" height="320" />
+
 <!--
 **Sakthi299/sakthi299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
