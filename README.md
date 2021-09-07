@@ -4,7 +4,7 @@ I am currently pursuing Bachelor of Technology in Information Technology at Anna
 
 <img align="right" alt="GIF" src="https://github.com/Sakthi299/sakthi299/blob/main/snaps/code.gif?raw=true" width="350" height="200" />
 
-<div style="text-align: left">
+<div align="left">
 ### &#10092;&#10093; Languages
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cpp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=2bbc8a)
