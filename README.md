@@ -5,7 +5,7 @@
 ## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 #  I am Sakthi Namasivayam
 <a href="https://www.linkedin.com/in/sakthi-k" target="blank"><img align="center" src="https://raw.githubusercontent.com/Sakthi299/sakthi299/main/snaps/linkedin.png" alt="Sakthi LinkedIn" height="30" width="30"/></a>&nbsp; 
-<a href="mailto:sakthiarun299@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/Sakthi299/sakthi299/main/snaps/gmail.png" alt="Sakthi Gmail" height="30" width="30" /></a>
+<a href="mailto:sakthiarun299@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/Sakthi299/sakthi299/main/snaps/gmail.png" alt="Sakthi Gmail" height="25" width="30" /></a>
 
 #### I am currently pursuing Bachelor of Technology in Information Technology at Anna University, Chennai.
 
