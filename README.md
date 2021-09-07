@@ -2,7 +2,7 @@
 #  I am Sakthi Namasivayam
 I am currently pursuing Bachelor of Technology in Information Technology at Anna University,Chennai.
 
-<img align="right" alt="GIF" src="https://github.com/Sakthi299/sakthi299/blob/main/snaps/code.gif?raw=true" width="350" height="200" />
+<img align="right" alt="GIF" src="https://github.com/Sakthi299/sakthi299/blob/main/snaps/code.gif?raw=true" width="300" height="180" />
 
 <div align="left">
 ### &#10092;&#10093; Languages
@@ -10,6 +10,7 @@ I am currently pursuing Bachelor of Technology in Information Technology at Anna
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+</div>
   
 ### 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -20,7 +21,7 @@ I am currently pursuing Bachelor of Technology in Information Technology at Anna
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=aws&logoColor=white&color=2bbc8a)
-</div>
+
 
 <div align="center">
 
