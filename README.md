@@ -4,14 +4,12 @@ I am currently pursuing Bachelor of Technology in Information Technology at Anna
 
 <img align="right" alt="GIF" src="https://github.com/Sakthi299/sakthi299/blob/main/snaps/code.gif?raw=true" width="300" height="180" />
 
-<div align="left">
 ### &#10092;&#10093; Languages
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cpp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-</div>
-  
+
 ### 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
@@ -30,7 +28,7 @@ I am currently pursuing Bachelor of Technology in Information Technology at Anna
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 
-<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Sakthi Namasivayam on LinkedIn" title="Follow Sakthi Namasivayam on LinkedIn"/>](https://linkedin.com/in/sakthi299)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Sakthi Namasivayam on LinkedIn" title="Follow Sakthi Namasivayam on LinkedIn"/>](https://linkedin.com/in/sakthi299)
 <!--
 **Sakthi299/sakthi299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
