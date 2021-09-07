@@ -1,30 +1,35 @@
 ## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 #  I am Sakthi Namasivayam
+I am currently pursuing Bachelor of Technology in Information Technology at Anna University,Chennai.
 
-### Languages
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+<img align="right" alt="GIF" src="https://github.com/Sakthi299/sakthi299/blob/main/snaps/code.gif?raw=true" width="350" height="200" />
 
-
+<div style="text-align: left">
+### &#10092;&#10093; Languages
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cpp&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+  
 ### 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=aws&logoColor=white&color=2bbc8a)
+</div>
 
+<div align="center">
 
-<img align="right" alt="GIF" src="https://github.com/Sakthi299/sakthi299/blob/main/snaps/code.gif?raw=true" width="500" height="320" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sakthi299&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Sakthi's GitHub Stats">
+</div>
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 
-
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Sakthi Namasivayam on LinkedIn" title="Follow Sakthi Namasivayam on LinkedIn"/>](https://linkedin.com/in/sakthi299)
+<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Sakthi Namasivayam on LinkedIn" title="Follow Sakthi Namasivayam on LinkedIn"/>](https://linkedin.com/in/sakthi299)
 <!--
 **Sakthi299/sakthi299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
